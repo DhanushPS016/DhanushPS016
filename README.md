@@ -37,16 +37,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuvg1907&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuvg1907&theme=radical" alt="Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuvg1907&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 📈 Commit Activity (Custom Color Graph)
