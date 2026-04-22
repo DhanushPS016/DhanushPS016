@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MANU V G</h1>
+<h1 align="center">Hi 👋, I'm Dhanush P S</h1>
 <h3 align="center">Full-stack Developer | AI/ML Researcher | Open Source Contributor</h3>
 
 <!-- Visitor Counter -->
@@ -12,7 +12,6 @@
 
 - 🔧 Specializing in **Frontend & Backend Development**
 - 🌐 Skilled in **Web & App Development**
-- 🤖 Exploring **AI, ML, and Automation**
 - 🛠️ Always **up-to-date with tech trends**
 - 📦 Passionate about **Open Source**
 
