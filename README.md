@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush P S</h1>
-<h3 align="center">Full-stack Developer | AI/ML Researcher | Open Source Contributor</h3>
+<h3 align="center">Full-stack Developer | user inteface  | Open Source Contributor</h3>
 
 <!-- Visitor Counter -->
 <p align="center">
@@ -28,11 +28,13 @@
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
   
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  
 </p>
 
 ---
@@ -62,7 +64,7 @@
 Always open for collaboration on:
 
 - 🚀 Full-stack projects
-- 🤖 AI/ML tools
+- 🤖 user interface developer
 - 🌱 Open source contributions
 
 ---
